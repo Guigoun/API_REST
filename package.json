@@ -1,6 +1,6 @@
 {
-  "AiPapis": "api_rest",
-  "Arrevuar": "1.0.0",
+  "nome": "api_rest",
+  "versao": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
